@@ -1,0 +1,5 @@
+/home/saint/Desktop/NumbersAboveAndBelowAverage/obj/Debug/net6.0/NumbersAboveAndBelowAverage.csproj.AssemblyReference.cache
+/home/saint/Desktop/NumbersAboveAndBelowAverage/obj/Debug/net6.0/NumbersAboveAndBelowAverage.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/NumbersAboveAndBelowAverage/obj/Debug/net6.0/NumbersAboveAndBelowAverage.AssemblyInfoInputs.cache
+/home/saint/Desktop/NumbersAboveAndBelowAverage/obj/Debug/net6.0/NumbersAboveAndBelowAverage.AssemblyInfo.cs
+/home/saint/Desktop/NumbersAboveAndBelowAverage/obj/Debug/net6.0/NumbersAboveAndBelowAverage.csproj.CoreCompileInputs.cache
